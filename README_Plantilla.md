@@ -31,14 +31,21 @@ Nosotros pensamos en un dispositivo que se encargue de rellenar el tarro de comi
 Sensor proximidad para abrir la tapa del contenedor de comida y llenarlo cuando el perro está cerca`
 
 `Completar una vez definido el proyecto.`
+`Una luz led, que se prenda cuando se están llenando los tarros 
+`
+`Motor Para empujar la comida 
+.`
+`Motor para abrir el contenedor
+`
+
 
 ## **`Requisitos`**
 
 - `Software necesario`  
 - `Librerías`  
 - `Hardware adicional`
-
 `Completar una vez definido el proyecto.`
+``
 
 ## **`Etapas del proyecto`**
 ### Etapa 1:
