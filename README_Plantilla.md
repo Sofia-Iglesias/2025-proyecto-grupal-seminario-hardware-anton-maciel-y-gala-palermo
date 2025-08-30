@@ -1,26 +1,34 @@
-# **`Nombre del Proyecto`**
+# **Alimentador de Perros**
 
 `Tecnología de los Sistemas de Información - Seminario Avanzado`  
 `Ciclo Lectivo 2025`
 
 ## **`Integrante/s`**
 
-- `Nombre 1`  
-- `Nombre 2`
+- `Antón Maciel Page `  
+- `Gala Palermo`
 
 ## **`Objetivo`**
 
-`Breve descripción del propósito del proyecto. Completar una vez definido el proyecto.`
+`
+Como objetivo tenemos poder alimentar a nuestras mascotas sin necesidad de estar o acordarnos. de este modo asegurandonos de que ellas no pasen hambre.
+`
 
 ## **`Descripción del Proyecto`**
 
-`Explicar en qué consiste y qué se busca lograr. Completar una vez definido el proyecto.`
+`
+Nosotros pensamos en un dispositivo que se encargue de rellenar el tarro de comida que tiene una mascota. Consiste en que a determinadas horas del día el sensor registre el peso del bowl, en caso de que siga habiendo comida, no llenaría el tarro, pero, en caso de que el tarro este vacío, lo llenaría hasta el peso determinado.
+.`
 
 ## **`Componentes`**
 
-- `Componente 1`  
-- `Componente 2`  
-- `Componente 3`
+- `Sensor que registre el peso del bowl`  
+
+`  
+- `Sensor que detecte que hora del dia es para ponerle la comida
+`  
+- `Botón para prender y apagar
+Sensor proximidad para abrir la tapa del contenedor de comida y llenarlo cuando el perro está cerca`
 
 `Completar una vez definido el proyecto.`
 
