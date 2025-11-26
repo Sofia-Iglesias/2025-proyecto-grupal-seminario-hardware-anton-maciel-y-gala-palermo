@@ -4,3 +4,5 @@ Gala Palermo y Anton Maciel Page
 
 Proyecto final: 
 https://www.tinkercad.com/things/4fdQoGkQpWT/editel?returnTo=%2Fdashboard&sharecode=GZ-MhNbHZKpWyBo35HkBm3-
+ 
+ Enviar bien el link que no encontre donde está
